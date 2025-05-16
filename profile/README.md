@@ -1,4 +1,4 @@
-## 프레임워크 & AI 활용 자바 기반 풀스택 멀티플랫폼 웹서비스 개발과정
+## [프로젝트] 클라우드(AWS)활용 자바/스프링 개발 부트캠
 
 ### 환영합니다! 여러분 모두 개발자가 되는 그 날까지 화이팅! 🏃🏃‍♂️🏃‍♀️
 
@@ -7,20 +7,16 @@
 - 010-8725-4966
 - 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
 
-### 🎁 Learning Course
-1. html/css/javascript
-2. java
-3. mysql
-4. jsp/servlet
-5. springframework
-6. semi-project
-7. spring boot
-8. react.js
-9. linux - aws - docker
-10. ai (chatgpt api, python ai model)
-11. react native
-12. flutter
-13. final-project
+### 🎁 교과목 / 훈련시간
+1. 웹 표준 기술 / 160
+2. 데이터베이스 / 64
+3. JAVA 프로그래밍 / 160
+4. JSP 프로그래밍 / 80
+5. [세미프로젝트] 웹 Application 프로젝트 / 120
+6. Docker를 이용한 컨테이너 관리와 배포 / 40
+7. AWS 서비스를 활용한 CI/CD 배포 환경 구축 / 40
+8. Spring 프레임워크 / 160
+9. [파이널프로젝트] AWS기반 프레임워크 활용 기업 실무 프로젝트 / 200
 
 ### 🏫 Repository
 - [Front](https://github.com/20241010-GreenIT/Front)
