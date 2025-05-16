@@ -55,7 +55,7 @@
 </ul>
 
 ### 🎦 수업 녹화 영상
-- [네이버 Box](https://naver.me/F4LwbDaU)
+- [네이버 BOX](https://naver.me/F4LwbDaU)
 
 ### 🤝Semi-Project
 - 웹 Application 프로젝트
