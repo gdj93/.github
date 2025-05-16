@@ -19,14 +19,14 @@
 9. (파이널프로젝트) AWS기반 프레임워크 활용 기업 실무 프로젝트 / 200
 
 ### 📂 수업 레파지토리
-- [웹 표준 기술](https://github.com/20241010-GreenIT/Front)
-- [데이터베이스](https://github.com/20241010-GreenIT/Java)
-- [JAVA 프로그래밍](https://github.com/20241010-GreenIT/MySQL)
-- [JSP 프로그래밍](https://github.com/20241010-GreenIT/SpringFramework)
-- [Docker](https://github.com/20241010-GreenIT/SpringBoot)
-- [AWS 활용 CICD](https://github.com/20241010-GreenIT/React)
-- [Spring 프레임워크](https://github.com/20241010-GreenIT/Docker)
-- [Git](https://github.com/20241010-GreenIT/Git)
+- [웹 표준 기술](https://github.com/gdj93/Web)
+- [데이터베이스](https://github.com/gdj93/Database)
+- [JAVA 프로그래밍](https://github.com/gdj93/Java)
+- [JSP 프로그래밍](https://github.com/gdj93/JspServlet)
+- [Docker](https://github.com/gdj93/Docker)
+- [AWS 활용 CICD](https://github.com/gdj93/CICD)
+- [Spring 프레임워크](https://github.com/gdj93/Spring)
+- [Git](https://github.com/gdj93/Git)
 
 ### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
