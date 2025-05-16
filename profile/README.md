@@ -2,35 +2,31 @@
 
 ### 환영합니다! 여러분 모두 개발자가 되는 그 날까지 화이팅! 🏃🏃‍♂️🏃‍♀️
 
-### 🎅 강사소개
-- 민경태 (남)
-- 010-8725-4966
-- 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
+### 👨‍🏫 훈련교사 소개
+- 이름(성별) : 민경태(남)
+- 연락처 : 010-8725-4966
+- 주요 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
 
-### 🎁 교과목 / 훈련시간
+### 📖 교과목 / 훈련시간
 1. 웹 표준 기술 / 160
 2. 데이터베이스 / 64
 3. JAVA 프로그래밍 / 160
 4. JSP 프로그래밍 / 80
-5. [세미프로젝트] 웹 Application 프로젝트 / 120
+5. (세미프로젝트) 웹 Application 프로젝트 / 120
 6. Docker를 이용한 컨테이너 관리와 배포 / 40
 7. AWS 서비스를 활용한 CI/CD 배포 환경 구축 / 40
 8. Spring 프레임워크 / 160
-9. [파이널프로젝트] AWS기반 프레임워크 활용 기업 실무 프로젝트 / 200
+9. (파이널프로젝트) AWS기반 프레임워크 활용 기업 실무 프로젝트 / 200
 
-### 🏫 Repository
-- [Front](https://github.com/20241010-GreenIT/Front)
-- [Java](https://github.com/20241010-GreenIT/Java)
-- [MySQL](https://github.com/20241010-GreenIT/MySQL)
-- [SpringFramework](https://github.com/20241010-GreenIT/SpringFramework)
-- [SpringBoot](https://github.com/20241010-GreenIT/SpringBoot)
-- [React](https://github.com/20241010-GreenIT/React)
-- [Docker](https://github.com/20241010-GreenIT/Docker)
+### 📂 수업 레파지토리
+- [웹 표준 기술](https://github.com/20241010-GreenIT/Front)
+- [데이터베이스](https://github.com/20241010-GreenIT/Java)
+- [JAVA 프로그래밍](https://github.com/20241010-GreenIT/MySQL)
+- [JSP 프로그래밍](https://github.com/20241010-GreenIT/SpringFramework)
+- [Docker](https://github.com/20241010-GreenIT/SpringBoot)
+- [AWS 활용 CICD](https://github.com/20241010-GreenIT/React)
+- [Spring 프레임워크](https://github.com/20241010-GreenIT/Docker)
 - [Git](https://github.com/20241010-GreenIT/Git)
-- [AI](https://github.com/20241010-GreenIT/AI)
-- [CICD](https://github.com/20241010-GreenIT/CICD)
-- [Flutter](https://github.com/20241010-GreenIT/Flutter)
-- [ReactNative](https://github.com/20241010-GreenIT/ReactNative.git)
 
 ### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
@@ -58,25 +54,11 @@
   </li>
 </ul>
 
-### 💻 수업 영상
-- [네이버 Box](http://naver.me/xa5pOFZz)
-
-### 🧷 학습 PDF
-- [Git_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Git_PDF.zip)
-- [Java_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.zip)
-- [Lombok_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok_PDF.pdf)
-- [MySQL_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
-- [Spring_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
-- [DevOps_PDF(Linux/Docker) 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/DevOps_PDF.zip)
-- [Spring Boot PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EA%B5%90%EC%95%88.pdf)
+### 🎦 수업 녹화 영상
+- [네이버 Box](https://naver.me/F4LwbDaU)
 
 ### 🤝Semi-Project
-- [공통구현사항](http://naver.me/5FmSXxip)
-- [플젝진행순서](http://naver.me/xWTn3LAJ)
-- [ERD작성툴](https://www.erdcloud.com/)
-- A조 (김리예, 조범희, 김성율)
-- B조 (김민희, 이수정, 김재찬)
+- 웹 Application 프로젝트
 
 ### 🤝Final-Project
-- 산출물
-- AWS 배포
+- AWS기반 프레임워크 활용 기업 실무 프로젝트
