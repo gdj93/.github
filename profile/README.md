@@ -4,7 +4,7 @@
 
 ### 👨‍🏫 훈련교사 소개
 - 이름(성별) : 민경태(남)
-- 연락처 : 010-8725-4966
+- 연락처 : 010-8725-4966 / gt_min@naver.com
 - 주요 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
 
 ### 📖 교과목 / 훈련시간
@@ -18,7 +18,7 @@
 8. Spring 프레임워크 / 160
 9. (파이널프로젝트) AWS기반 프레임워크 활용 기업 실무 프로젝트 / 200
 
-### 📂 수업 레파지토리
+### 📂 수업 소스코드
 - [웹 표준 기술](https://github.com/gdj93/Web)
 - [데이터베이스](https://github.com/gdj93/Database)
 - [JAVA 프로그래밍](https://github.com/gdj93/Java)
@@ -27,6 +27,9 @@
 - [AWS 활용 CICD](https://github.com/gdj93/CICD)
 - [Spring 프레임워크](https://github.com/gdj93/Spring)
 - [Git](https://github.com/gdj93/Git)
+
+### 🎦 수업 녹화 영상
+- [네이버 BOX](https://naver.me/F4LwbDaU)
 
 ### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
@@ -53,9 +56,6 @@
     </ul>
   </li>
 </ul>
-
-### 🎦 수업 녹화 영상
-- [네이버 BOX](https://naver.me/F4LwbDaU)
 
 ### 🤝Semi-Project
 - 웹 Application 프로젝트
