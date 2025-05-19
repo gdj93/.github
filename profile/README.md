@@ -57,8 +57,8 @@
   </li>
 </ul>
 
-### 🤝Semi-Project
+### 🤝 Semi-Project
 - 웹 Application 프로젝트
 
-### 🤝Final-Project
+### 🤝 Final-Project
 - AWS기반 프레임워크 활용 기업 실무 프로젝트
