@@ -24,7 +24,7 @@
 - [JAVA 프로그래밍](https://github.com/gdj93/Java)
 - [JSP 프로그래밍](https://github.com/gdj93/JspServlet)
 - [Docker](https://github.com/gdj93/Docker)
-- [AWS 활용 CICD](https://github.com/gdj93/CICD)
+- [AWS 활용 CICD](https://github.com/gdj93/AWS_CICD)
 - [Spring 프레임워크](https://github.com/gdj93/Spring)
 - [Spring Boot](https://github.com/gdj93/SpringBoot)
 - [Git](https://github.com/gdj93/Git)
