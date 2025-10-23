@@ -64,3 +64,4 @@
 
 ### 🤝 Final-Project
 - AWS기반 프레임워크 활용 기업 실무 프로젝트
+- [Github 협업 가이드](https://www.notion.so/Github-294dc48d864181d685f6c98ea31376ec)
