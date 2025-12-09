@@ -65,7 +65,6 @@
 ### 🤝 Final-Project
 - AWS기반 프레임워크 활용 기업 실무 프로젝트
 - [Github 협업 가이드](https://www.notion.so/Github-294dc48d864181d685f6c98ea31376ec)
-- [Git 브랜치](https://www.notion.so/Git-Branch-2a0dc48d864180ea8648edeae532e3f6?source=copy_link)
-- [Git 레벨업](https://www.notion.so/Git-Level-Up-29ddc48d864180f3ba02e8fade072d07?source=copy_link)
+- [Git](https://www.notion.so/Git-GitHub-2c0dc48d8641806ba31defa5d23d516b?source=copy_link)
 - [도커를 활용한 AWS 수동 배포](https://www.notion.so/React-Spring-Boot-2a3dc48d86418012928af1c553f37702?source=copy_link)
 - [도커를 활용한 AWS 자동 배포](https://www.notion.so/React-Spring-Boot-2aadc48d8641800ea806edc2fa65df27?source=copy_link)
